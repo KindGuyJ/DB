@@ -1,0 +1,116 @@
+{
+    "sensores":[
+        {
+            "id":1,
+            "ubicacion":"Nva Cba",
+            "geo":"-31.428462394605265, -64.18478014536909",
+            "altura": 1500.3,
+            "errores":false,
+            "reads":[
+                {
+                    "timestamp": "2025-03-27T18:00:00.000Z",
+                    "presion": 14.7,
+                    "temperatura": 290.4,
+                    "humedad": 0.1
+                },
+                {
+                    "timestamp": "2025-03-27T17:00:00.000Z",
+                    "presion": 14.6,
+                    "temperatura": 290.7,
+                    "humedad": 0.12
+                },
+                {
+                    "timestamp": "2025-03-27T16:00:00.000Z",
+                    "presion": 14.3,
+                    "temperatura": 290.2,
+                    "humedad": 0.11
+                }
+            ]
+            
+        },
+        {
+            "id":1,
+            "ubicacion":"Bermudas",
+            "geo":"25.000193717808312, -71.00008589793322",
+            "altura": 0.0,
+            "errores":false,
+            "reads":[
+                {
+                    "timestamp": "2025-03-27T18:00:00.000Z",
+                    "presion": 15.2,
+                    "temperatura": 290.4,
+                    "humedad": 0.9
+                },
+                {
+                    "timestamp": "2025-03-27T17:00:00.000Z",
+                    "presion": 15.2,
+                    "temperatura": 290.7,
+                    "humedad": 0.92
+                },
+                {
+                    "timestamp": "2025-03-27T16:00:00.000Z",
+                    "presion": 15.2,
+                    "temperatura": 290.2,
+                    "humedad": 0.94
+                }
+            ]
+            
+        },
+        {
+            "id":2,
+            "ubicacion":"General Paz",
+            "geo":"-31.414045005782206, -64.1705357737946",
+            "altura": 1450,
+            "errores":false,
+            "reads":[
+                {
+                    "timestamp": "2025-03-27T18:00:00.000Z",
+                    "presion": 15.7,
+                    "temperatura": 290.4,
+                    "humedad": 0.1
+                },
+                {
+                    "timestamp": "2025-03-27T17:00:00.000Z",
+                    "presion": 14.6,
+                    "temperatura": 290.7,
+                    "humedad": 0.12
+                },
+                {
+                    "timestamp": "2025-03-27T16:00:00.000Z",
+                    "presion": 14.3,
+                    "temperatura": 290.2,
+                    "humedad": 0.11
+                }
+            ]
+            
+        },
+        {
+            "id":1,
+            "ubicacion":"Guemes",
+            "geo":"-31.414045005782206, -64.1705357737946",
+            "altura": 1520.7,
+            "errores":false,
+            "reads":[
+                {
+                    "timestamp": "2025-03-27T18:00:00.000Z",
+                    "presion": 14.3,
+                    "temperatura": 291.4,
+                    "humedad": 0.1
+                },
+                {
+                    "timestamp": "2025-03-27T17:00:00.000Z",
+                    "presion": 14.5,
+                    "temperatura": 291.7,
+                    "humedad": 0.12
+                },
+                {
+                    "timestamp": "2025-03-27T16:00:00.000Z",
+                    "presion": 14.2,
+                    "temperatura": 291.2,
+                    "humedad": 0.11
+                }
+            ]
+            
+        }
+    ]
+}
